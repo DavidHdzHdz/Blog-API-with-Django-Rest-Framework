@@ -77,6 +77,7 @@ class PostListSerializer(ModelSerializer):
             'url',
             'user',
             'title',
+            'image',
             'content',
             'publish',
         ]
