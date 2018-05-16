@@ -36,6 +36,11 @@ y la Api como tal.
      ]        
     }    
   ```
+  * Para realizar busquedas en los post se agrega el parametro ?search=string_buscado,
+    por ejemplo para buscar gatos sería:
+    ```
+    http://url/api/posts/?search=gatos
+    ```
   
   
 
